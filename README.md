@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrishi-008
-- My [LinkedIn](www.linkedin.com/in/hrishk)
+-[LinkedIn](https://www.linkedin.com/in/hrishk)
 - 👀 I’m interested in development using python, or Development in general. I am exploring different fields though.
 - 🌱 I’m currently learning a lot of things and exploring many fields, but everything narrows down to Python,Django, AI ML and DL.
 - Exploring webtechnologies like ReactJS, NodeJS.
