@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh</h1>
 <h3 align="center">Turning machines into geniuses and making the cloud a little fluffier since I started coding 🌐🧠</h3>
 
-- 🔭 I’m currently working on **SearchGPT (yes, really! 🤖)**
+- 🔭 I’m currently working on **SearchGPT (yes, really! 🤖)** - improving retrieval process and speed
 
 - 🌱 I’m diving deep into **AI, DevOps, and Cloud**
 
