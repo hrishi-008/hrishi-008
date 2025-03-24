@@ -1,85 +1,46 @@
-<h1 align="center">Hi 👋, I'm Hrishikesh</h1>
-<h3 align="center">Turning machines into geniuses and making the cloud a little fluffier since I started coding 🌐🧠</h3>
+# 💻 Hey there, I'm [Hrishikesh](https://www.hrishk.me/) 👋
 
-- 🔭 I’m currently working on **SearchGPT (yes, really! 🤖)** - improving retrieval process and speed
+Welcome to my corner of the internet! I'm a passionate **AI Engineer** and **Tech Enthusiast** who loves building impactful products, solving real-world problems, and leading projects that blend creativity with technology.
 
-- 🌱 I’m diving deep into **AI, DevOps, and Cloud**
+## 🚀 About Me
 
-- 📫 You can reach me at **hackathon.hrishi@gmail.com**
+- 🔎 Currently exploring the intersection of **AI**, **Cloud**, and **DevOps**.
+- 🤖 Proficient in **Machine Learning**, **LLMs**, **Fine-tuning**, and **Generative AI**.
+- 💼 Experience in **Natural Language to SQL** pipelines, **Sales AI automation**, and **Newsletter SaaS Platforms**.
+- ☁️ Enthusiastic about **Cloud Computing**, **AIOps**, and **FinTech** (Yes, Goldman Sachs level obsessed).
+- 🔨 Comfortable taking ownership, brainstorming, and turning ideas into working products.
+- 🗂️ Familiar with **Docker**, **Streamlit**, **FAISS/ANNOY**, **RAG Pipelines**, and **LangChain**.
+- ✍️ Also, you’ll find me occasionally writing engaging posts with a pinch of sarcasm and humor on **LinkedIn**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hrishk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/hrishi-008" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishi-008&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🛠 Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FFA500?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-Though you might see a lot of .ipynb, my only 💞 is .py
+
+
+## 📈 What I’m Working On
+- 🔥 Building **AI pipelines** that automate complex tasks for **sales and analytics**.
+- 📨 Prototyping a SaaS-based **AI-enabled Mailer Service** to revolutionize newsletter generation.
+- 🧠 Exploring **LLM quantization**, **fine-tuning**, and making models run **faster and cheaper**.
+- 💸 Keeping an eye on the **Finance + Tech** space for my next big venture.
+
+
+
+## 📬 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hrishk/) - I post, sometimes with humor, mostly with value.
+- ✉️ Email: hackathon.hrishi@gmail.com
+- 🌐 Portfolio [hrishk.me](https://www.hrishk.me/)
+
+
+
+
+_"Leadership is not about being in charge. It's about taking care of those in your charge."_  
+
+Thanks for stopping by! ⭐ Feel free to fork, collaborate, or just connect 🚀
