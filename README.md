@@ -41,6 +41,7 @@ Welcome to my corner of the internet! I'm a passionate **AI Engineer** and **Tec
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hrishk/) - I post, sometimes with humor, mostly with value.
 - ✉️ Email: hackathon.hrishi@gmail.com
 - 🌐 Portfolio [hrishk.me](https://www.hrishk.me/)
+- 🖋️ [Medium](https://medium.com/@hackathon.hrishi) for **AI, Cloud, and Dev** write-ups
 
 
 _"Leadership is not about being in charge. It's about taking care of those in your charge."_  
