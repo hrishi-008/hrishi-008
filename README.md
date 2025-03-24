@@ -42,19 +42,6 @@ Welcome to my corner of the internet! I'm a passionate **AI Engineer** and **Tec
 - ✉️ Email: hackathon.hrishi@gmail.com
 - 🌐 Portfolio [hrishk.me](https://www.hrishk.me/)
 
-## 📌 Pinned Repositories
-[![SummarAI](https://github-readme-stats.vercel.app/api/pin/?username=hrishi-008&repo=SummarAI&theme=default)](https://github.com/hrishi-008/SummarAI)
-[![AI Mailer SaaS](https://github-readme-stats.vercel.app/api/pin/?username=your-github&repo=AI-Mailer-SaaS&theme=default)](https://github.com/your-github/AI-Mailer-SaaS)
-[![SQL-Automation](https://github-readme-stats.vercel.app/api/pin/?username=your-github&repo=SQL-Automation&theme=default)](https://github.com/your-github/SQL-Automation)
-
-## 📌 Featured Projects
-[![SummarAI](https://github-readme-stats.vercel.app/api/pin/?username=hrishi-008&repo=SummarAI&theme=default)](https://github.com/hrishi-008/SummarAI)
-[![Chat-Gemini](https://github-readme-stats.vercel.app/api/pin/?username=hrishi-008&repo=Chat-Gemini&theme=default)](https://github.com/hrishi-008/Chat-Gemini)
-[![LoRA-adapter-to-GGUF-for-Ollama-with-code](https://github-readme-stats.vercel.app/api/pin/?username=hrishi-008&repo=LoRA-adapter-to-GGUF-for-Ollama-with-code&theme=default)](https://github.com/hrishi-008/LoRA-adapter-to-GGUF-for-Ollama-with-code)
-[![MelodyMigrate](https://github-readme-stats.vercel.app/api/pin/?username=hrishi-008&repo=MelodyMigrate&theme=default)](https://github.com/hrishi-008/MelodyMigrate)
-[![react-resume-builder](https://github-readme-stats.vercel.app/api/pin/?username=hrishi-008&repo=react-resume-builder&theme=default)](https://github.com/hrishi-008/react-resume-builder)
-[![Nokia-Snake-Game](https://github-readme-stats.vercel.app/api/pin/?username=hrishi-008&repo=Nokia-Snake-Game&theme=default)](https://github.com/hrishi-008/Nokia-Snake-Game)
-
 
 _"Leadership is not about being in charge. It's about taking care of those in your charge."_  
 
